@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/Project-Active-brightgreen)
 
 # AI Data Orchestration Pipeline: Bitcoin Price Movement Prediction
-# Created by Jungmoo Kim (with help from AI)
+Created by Jungmoo Kim (with help from AI)
 
 This project demonstrates an end-to-end AI data orchestration pipeline:
 
