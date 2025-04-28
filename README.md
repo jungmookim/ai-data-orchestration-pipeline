@@ -5,14 +5,12 @@
 # AI Data Orchestration Pipeline: Bitcoin Price Movement Prediction
 Created by Jungmoo Kim (with help from AI)
 
-This project demonstrates an end-to-end AI data orchestration pipeline:
+This project demonstrates an end-to-end data orchestration pipeline:
 
-- Automated data ingestion
+- Automated data ingestion (Bitcoin price data)
 - Data preprocessing
 - Model training
 - Model deployment via API
-
-All steps are orchestrated manually for now and ready for later automation with a workflow manager.
 
 ---
 
@@ -125,17 +123,6 @@ Response:
 - Add model performance evaluation metrics
 - Dockerize the API server
 - Deploy to a cloud service (AWS/GCP/Azure)
-
----
-
-## 🧠 Key Skills Demonstrated
-
-- Python scripting
-- API data ingestion
-- Data preprocessing and feature engineering
-- Machine learning model training
-- Model deployment with FastAPI
-- Basic orchestration principles
 
 ---
 
