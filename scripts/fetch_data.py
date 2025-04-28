@@ -7,9 +7,11 @@ def fetch_bitcoin_prices():
     params = {
         'vs_currency': 'usd',
         'days': '1',
-        'interval': 'hourly'
+        'interval': 'daily'
     }
     response = requests.get(url, params=params)
+    # print(response.status_code)  # <--- Add this
+    # print(response.json())        # <--- Add this
     data = response.json()
     
     # Extract prices
